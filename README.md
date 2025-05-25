@@ -6,4 +6,4 @@ All you need to do is just left click on the available path to add the block and
 Prevent him from reaching the blue portal.
 
 ## A* Star Based
-![](https://github.com/ThomasArtemius/Block-Almighty/blob/main/Gifs/Proto2.gif)
+![]([https://github.com/ThomasArtemius/Block-Almighty/blob/main/Gifs/Proto2.gif](https://github.com/ThomasArtemius/Block-Almighty/blob/main/Gifs/Proto2.gif))
