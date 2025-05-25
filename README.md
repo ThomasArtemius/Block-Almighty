@@ -17,4 +17,4 @@ Then, the agent must choose the next path (lowest f(x)). As long the agent can f
 ![](https://github.com/ThomasArtemius/Block-Almighty/blob/main/Gifs/Proto6.gif)
 
 ## Assets
-The assets are generated using bing and the SFX as well the music is downloaded from pixabay
+The assets are generated using bing and the SFX as well the music are downloaded from pixabay
