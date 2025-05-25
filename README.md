@@ -15,3 +15,6 @@ Once the agent take the path, it will be poped from the heap and its position wi
 The min heap structure is to contain the lowest value in descendeng manner, where the lowest point is store in the upper part. Agent can only explore up to 3 paths (if the agent reach the intersection). 
 Then, the agent must choose the next path (lowest f(x)). As long the agent can find the lowest f(x) than before, it will be stored in the heap.
 ![](https://github.com/ThomasArtemius/Block-Almighty/blob/main/Gifs/Proto6.gif)
+
+## Assets
+The assets are generated using bing and the SFX as well the music is downloaded from pixabay
